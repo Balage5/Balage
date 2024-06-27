@@ -2,7 +2,7 @@
 
 
 - 👋 Hello! My name is Balázs Szélig. 
-- ⏳ I'm 14 years old.
+- ⏳ I'm 17 years old.
 - 👀 I love coding. 
 - 📚 I’m currently learning Flutter. 
 - 🌍 I live in Hungary. 🇭🇺
